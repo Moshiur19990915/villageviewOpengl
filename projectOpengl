@@ -655,7 +655,7 @@ glutInit(&argc, argv);
 glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
 glutInitWindowSize(1200, 700);
 
-glutCreateWindow("Group 7: Village Scenario");
+glutCreateWindow(" Village Scenario");
 myInit();
 
 glutDisplayFunc(Display);
